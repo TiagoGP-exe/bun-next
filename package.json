@@ -1,0 +1,24 @@
+{
+  "name": "bun-next",
+  "version": "0.0.143",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-is": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.7",
+    "@types/react": "^18",
+    "bun-framework-next": "^12.2",
+    "react-refresh": "0.10.0",
+    "typescript": "latest"
+  },
+  "module": "index.js"
+}
